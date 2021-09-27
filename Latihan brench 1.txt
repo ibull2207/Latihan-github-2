@@ -1,0 +1,4 @@
+Nama Hewan Yang Paling Disukai:
+  1. Kucing
+  2. Kelinci
+  3. Harimau
