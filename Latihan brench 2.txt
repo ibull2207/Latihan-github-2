@@ -1,0 +1,4 @@
+Nama Hewan Yang Paling Disukai:
+  1. Tikus 
+  2. Anjing
+  3. Babi
